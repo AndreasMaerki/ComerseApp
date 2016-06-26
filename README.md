@@ -7,4 +7,5 @@ Download Xcode project, open the terminal, navigate to the project folder and ru
 This project requires the Cocoapods dependency manager.
 # Third party dependencies
 Alamofire V 3.2.1
+
 Currency Picker (https://github.com/Adnan1990/ADCurrencyPicker)
